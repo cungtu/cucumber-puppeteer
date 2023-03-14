@@ -14,12 +14,12 @@ describe('BrowserScope', () => {
   });
 
   it('can be initialized', async () => {
-    browserScope = new BrowserScope({attach: {}, parameters: {headless: true}});
+    browserScope = new BrowserScope({attach: {}, parameters: {headless: false}});
     await browserScope.init();    
     expect(browserScope.page).not.toBe(null);
     expect(browserScope.config).not.toBe(null);
     expect(browserScope.browser).not.toBe(null);
-    expect(browserScope.worldParameters).toEqual({headless: true});
+    expect(browserScope.worldParameters).toEqual({headless: false});
     expect(browserScope.attach).toEqual({});
 
     const browserVersion = await browserScope.browser.version();
