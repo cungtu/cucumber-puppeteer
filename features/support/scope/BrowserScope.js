@@ -24,7 +24,11 @@ class BrowserScope {
         if('browserWSEndpoint' in this.config) {
             this.browser = await puppeteer.connect(this.config);
         } else {
-            this.browser = await puppeteer.launch(this.config);
+            this.browser = await puppeteer.launch({
+                headless: false,
+                defaultViewport: false,
+                userDataDir: "./tmp",
+            });
         }
         this.page = await this.browser.newPage();
     }

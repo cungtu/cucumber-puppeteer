@@ -1,0 +1,8 @@
+2023/03/22-00:18:16.848 3458 Reusing MANIFEST F:\IdeaProjects\automation\automation\cucumber-puppeteer\test\action\tmp\Default\IndexedDB\https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/22-00:18:16.849 3458 Recovering log #25
+2023/03/22-00:18:16.849 3458 Reusing old log F:\IdeaProjects\automation\automation\cucumber-puppeteer\test\action\tmp\Default\IndexedDB\https_twitter.com_0.indexeddb.leveldb/000025.log 
+2023/03/22-00:18:55.157 2eb0 Level-0 table #29: started
+2023/03/22-00:18:55.157 2eb0 Level-0 table #29: 0 bytes OK
+2023/03/22-00:18:55.159 2eb0 Delete type=0 #25
+2023/03/22-00:18:55.159 2eb0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/22-00:18:55.160 2eb0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

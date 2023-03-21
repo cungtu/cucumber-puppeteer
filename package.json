@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "cucumber-puppeteer",
   "version": "1.0.16",
   "description": "A Node.js template for end-to-end testing your app with Cucumber.js and Puppeteer",
@@ -21,7 +22,8 @@
   },
   "keywords": [
     "cucumber",
-    "puppeteer"
+    "puppeteer",
+    "gologin"
   ],
   "author": "Pat Heard <patrick.heard@canada.ca>",
   "license": "MIT",
@@ -34,7 +36,7 @@
     "axe-reports": "^1.1.11",
     "cucumber": "^6.0.5",
     "dotenv": "^8.6.0",
-    "gologin": "^2.0.6",
+    "gologin": "^2.0.8",
     "pixelmatch": "^5.2.1",
     "puppeteer": "^8.0.0"
   },

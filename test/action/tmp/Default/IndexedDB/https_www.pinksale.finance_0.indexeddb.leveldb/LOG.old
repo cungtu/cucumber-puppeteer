@@ -1,0 +1,6 @@
+2023/03/22-00:17:13.480 44d4 Reusing MANIFEST F:\IdeaProjects\automation\automation\cucumber-puppeteer\test\action\tmp\Default\IndexedDB\https_www.pinksale.finance_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/22-00:17:13.480 44d4 Recovering log #599
+2023/03/22-00:17:13.480 44d4 Reusing old log F:\IdeaProjects\automation\automation\cucumber-puppeteer\test\action\tmp\Default\IndexedDB\https_www.pinksale.finance_0.indexeddb.leveldb/000599.log 
+2023/03/22-00:17:13.481 44d4 Delete type=2 #597
+2023/03/22-00:17:13.938 44d4 Manual compaction at level-0 from '\x00\xef\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xf0\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/22-00:17:14.042 44d4 Manual compaction at level-0 from '\x00\xf0\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xf1\x00\x00\x00' @ 0 : 0; will stop at (end)

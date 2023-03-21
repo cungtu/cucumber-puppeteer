@@ -1,0 +1,25 @@
+2023/03/14-23:25:24.944 3f38 Reusing MANIFEST F:\IdeaProjects\automation\automation\cucumber-puppeteer\tmp\Default\IndexedDB\https_www.pinksale.finance_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/14-23:25:24.944 3f38 Recovering log #12
+2023/03/14-23:25:24.944 3f38 Reusing old log F:\IdeaProjects\automation\automation\cucumber-puppeteer\tmp\Default\IndexedDB\https_www.pinksale.finance_0.indexeddb.leveldb/000012.log 
+2023/03/14-23:25:24.944 3f38 Delete type=2 #11
+2023/03/14-23:25:25.458 3b60 Level-0 table #17: started
+2023/03/14-23:25:25.470 3b60 Level-0 table #17: 615 bytes OK
+2023/03/14-23:25:25.472 3b60 Delete type=0 #12
+2023/03/14-23:25:25.473 3b60 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 319 : 1
+2023/03/14-23:25:25.473 3b60 Compacting 1@0 + 1@1 files
+2023/03/14-23:25:25.479 3b60 Generated table #18@0: 112 keys, 2713 bytes
+2023/03/14-23:25:25.479 3b60 Compacted 1@0 + 1@1 files => 2713 bytes
+2023/03/14-23:25:25.480 3b60 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/14-23:25:25.480 3b60 Delete type=2 #17
+2023/03/14-23:25:25.480 3b60 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 319 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/14-23:25:25.560 3b60 Level-0 table #20: started
+2023/03/14-23:25:25.582 3b60 Level-0 table #20: 607 bytes OK
+2023/03/14-23:25:25.586 3b60 Delete type=2 #14
+2023/03/14-23:25:25.586 3b60 Delete type=0 #16
+2023/03/14-23:25:25.587 3b60 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 336 : 1
+2023/03/14-23:25:25.587 3b60 Compacting 1@0 + 1@1 files
+2023/03/14-23:25:25.596 3b60 Generated table #21@0: 112 keys, 2711 bytes
+2023/03/14-23:25:25.596 3b60 Compacted 1@0 + 1@1 files => 2711 bytes
+2023/03/14-23:25:25.597 3b60 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/14-23:25:25.597 3b60 Delete type=2 #20
+2023/03/14-23:25:25.597 3b60 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 336 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
